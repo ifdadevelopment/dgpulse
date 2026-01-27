@@ -2365,3 +2365,53 @@ export const SERVICES = [
   ["Google My Business Listing", "/services/gmb-listing"],
   ["AI Video Marketing", "/services/ai-video-marketing"],
 ];
+// data/portfolioData.js
+export const PORTFOLIO_SECTIONS = [
+  {
+    heading: "Professional Websites",
+    items: [
+      {
+        image: "/images/ifda-institute.webp",
+        title: "IFDA INSTITUTE",
+        desc: "Educational training institute website with clean UI and student-focused UX.",
+        link: "https://ifdainstitute.com/",
+      },
+      {
+        image: "/images/gungun-greens.webp",
+        title: "GUNGUN GREEN PROPERTIES",
+        desc: "Real estate website showcasing premium properties and strong branding.",
+        link: "https://gungungreens.com/",
+      },
+      {
+        image: "/images/banaras-digital.webp",
+        title: "BANARAS DIGITAL SOLUTIONS",
+        desc: "IT & Stock Market training platform with structured learning flow.",
+        link: "https://banarasdigitalsolution.com/",
+      },
+    ],
+  },
+
+  {
+    heading: "CRM Management Systems",
+    items: [
+      {
+        image: "/images/lms.webp",
+        title: "Learning Management System",
+        desc: "Platform to manage online classes, content delivery, and student progress.",
+        link: "https://smartlearn.ifda.in/",
+      },
+      {
+        image: "/images/students-portal.webp",
+        title: "Student Portal",
+        desc: "Secure portal for attendance, results, assignments, and notifications.",
+        link: "https://student.ifda.in/",
+      },
+      {
+        image: "/images/ims.webp",
+        title: "Institute Management System",
+        desc: "Complete system for admissions, fees, exams, batches & reporting.",
+        link: "https://ims.ifda.in/",
+      },
+    ],
+  },
+];

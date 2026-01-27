@@ -72,7 +72,7 @@ export default function RecentWork() {
           ))}
         </div>
         <Link
-          href="/portfolio"
+          href="/project"
           className="block mx-auto w-[240px] mt-16 px-8 py-3 bg-[#0b1a3a]
             text-white text-base font-semibold hover:bg-[#faa61a] rounded-full shadow-lg
             hover:shadow-xl transition text-center"
