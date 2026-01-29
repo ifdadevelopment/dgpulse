@@ -681,444 +681,440 @@ export const serviceCapabilities = {
     },
   },
   "graphic-design": {
-    tabs: ["Design", "Development", "CustomMobile", "Analytics", "ASO"],
+    tabs: ["Branding", "SocialMedia", "Advertising", "PrintMarketing", "Illustrations"],
     content: {
-      Design: {
-        title: "Mobile App Design",
+      Branding: {
+        title: "Branding & Identity Design",
         desc:
-          "When lead data is spread across multiple platforms, businesses face confusion and missed opportunities. A properly structured CRM keeps all customer information organized, accessible, and manageable.",
+          "Your brand needs visuals that represent who you are. Clean, modern, and memorable design helps people trust your business.",
         points: [
-          "Custom app interface design",
-          "Modern UI/UX for mobile",
-          "Smooth user flows",
-          "Intuitive navigation",
-          "Visually engaging screen layouts",
+          "Logo Design & Redesign",
+          "Brand Colors & Typography",
+          "Identity System & Brand Kit",
+          "Business Cards & Stationery",
+          "Complete Branding Guidelines",
         ],
         image: "/images/app-development1.webp",
       },
-
-      Development: {
-        title: "Mobile App Development",
+      SocialMedia: {
+        title: "Social Media Graphics",
         desc:
-          "With the help of advanced tools, building a fast, secure, and scalable app is essential. Clean and efficient code ensures long-term stability and excellent performance — the foundation of every good app development company in Delhi.",
+          "Social media is visual-first, and strong designs help increase traffic and visibility.",
         points: [
-          "Android & iOS development",
-          "Fast and optimized app performance",
-          "Secure architecture",
-          "API integrations & custom modules",
-          "Scalable and reliable code",
+          "Daily/Weekly Post Designs",
+          "Story & Reel Graphics",
+          "Promotional Banners",
+          "Highlight Covers",
+          "Platform-Optimized Designs",
         ],
         image: "/images/app-development-for-ecommerce.webp",
       },
-
-      CustomMobile: {
-        title: "Custom Mobile Solutions",
+      Advertising: {
+        title: "Advertising Creatives",
         desc:
-          "We build mobile apps designed to solve real business problems — from bookings to e-commerce to internal tools.",
+          "Effective ads need clear messaging and powerful visuals that increase your visibility.",
         points: [
-          "Custom feature development",
-          "Role-based access",
-          "Dashboard & analytics",
-          "Business-specific mobile tools",
-          "Scalable solutions for growth",
+          "Banner Ads",
+          "Poster & Flyer Designs",
+          "Google & Meta Ad Creatives",
+          "Campaign Graphics",
+          "Event Creatives",
         ],
         image: "/images/custom-app.webp",
       },
-
-      Analytics: {
-        title: "App Analytics",
+      PrintMarketing: {
+        title: "Print & Marketing Designs",
         desc:
-          "Understanding how users interact with your app helps improve performance and engagement.",
+          "High-quality print designs leave a strong impression offline.",
         points: [
-          "User behavior analytics",
-          "Engagement tracking",
-          "Performance reports",
-          "Crash reports & fixes",
-          "Data-based improvement suggestions",
+          "Brochures & Catalogs",
+          "Packaging Design",
+          "Menu Cards & Magazines",
+          "Billboards & Hoardings",
+          "Event Stands & Roll-Ups",
         ],
         image: "/images/enterprise-app.webp",
       },
-
-      ASO: {
-        title: "App Store Optimization",
+      Illustrations: {
+        title: "Custom Illustrations",
         desc:
-          "Optimizing your app for stores helps you gain more users and increase visibility.",
+          "Illustrations make your brand unique and memorable.",
         points: [
-          "Keyword optimization",
-          "Screenshots & descriptions",
-          "Screenshots & descriptions",
-          "Performance-based improvements",
-          "User feedback analysis",
+          "Character Illustrations",
+          "Infographics",
+          "Icon Sets",
+          "Custom Artwork",
+          "Brand Mascots",
         ],
         image: "/images/cross-platform.webp",
       },
     },
   },
   "video-editing": {
-    tabs: ["Design", "Development", "CustomMobile", "Analytics", "ASO"],
+    tabs: ["ReelsShortForm", "PromotionalBranding", "Corporate", "MotionGraphics", "YouTubeEditing"],
     content: {
-      Design: {
-        title: "Mobile App Design",
+      ReelsShortForm: {
+        title: "Reels & Short-Form Editing",
         desc:
-          "When lead data is spread across multiple platforms, businesses face confusion and missed opportunities. A properly structured CRM keeps all customer information organized, accessible, and manageable.",
+          "Short videos need the best editing skills like fast cuts, strong visuals, and attention-grabbing edits.",
         points: [
-          "Custom app interface design",
-          "Modern UI/UX for mobile",
-          "Smooth user flows",
-          "Intuitive navigation",
-          "Visually engaging screen layouts",
+          "Instagram Reels",
+          "YouTube Shorts",
+          "TikTok-style edits",
+          "Trend-based editing",
+          "High-retention cuts & transitions",
         ],
         image: "/images/app-development1.webp",
       },
 
-      Development: {
-        title: "Mobile App Development",
+      PromotionalBranding: {
+        title: "Promotional & Branding Videos",
         desc:
-          "With the help of advanced tools, building a fast, secure, and scalable app is essential. Clean and efficient code ensures long-term stability and excellent performance — the foundation of every good app development company in Delhi.",
+          "Videos that represent your brand professionally and clearly.",
         points: [
-          "Android & iOS development",
-          "Fast and optimized app performance",
-          "Secure architecture",
-          "API integrations & custom modules",
-          "Scalable and reliable code",
+          "Brand story videos",
+          "Product showcase edits",
+          "Service promo videos",
+          "Launch videos",
+          "Intro & outro branding",
         ],
         image: "/images/app-development-for-ecommerce.webp",
       },
 
-      CustomMobile: {
-        title: "Custom Mobile Solutions",
+      Corporate: {
+        title: "Corporate Video Editing",
         desc:
-          "We build mobile apps designed to solve real business problems — from bookings to e-commerce to internal tools.",
+          "Clean, professional, confidence-building videos for internal and external communication.",
         points: [
-          "Custom feature development",
-          "Role-based access",
-          "Dashboard & analytics",
-          "Business-specific mobile tools",
-          "Scalable solutions for growth",
+          "Training videos",
+          "Testimonial edits",
+          "Event highlights",
+          "HR & culture videos",
+          "Company overview videos",
         ],
         image: "/images/custom-app.webp",
       },
 
-      Analytics: {
-        title: "App Analytics",
+      MotionGraphics: {
+        title: "Motion Graphics & Visual Effects",
         desc:
-          "Understanding how users interact with your app helps improve performance and engagement.",
+          "Make your videos look premium and engaging with clean motion design.",
         points: [
-          "User behavior analytics",
-          "Engagement tracking",
-          "Performance reports",
-          "Crash reports & fixes",
-          "Data-based improvement suggestions",
+          "Animated text",
+          "Logo animations",
+          "Infographics animation",
+          "Lower thirds & titles",
+          "Visual enhancements",
         ],
         image: "/images/enterprise-app.webp",
       },
 
-      ASO: {
-        title: "App Store Optimization",
+      YouTubeEditing: {
+        title: "YouTube Video Editing",
         desc:
-          "Optimizing your app for stores helps you gain more users and increase visibility.",
+          "Editing that keeps viewers watching longer and helps your channel grow.",
         points: [
-          "Keyword optimization",
-          "Screenshots & descriptions",
-          "Screenshots & descriptions",
-          "Performance-based improvements",
-          "User feedback analysis",
+          "Long-form editing",
+          "Jump cuts & pacing",
+          "Thumbnails & title screens",
+          "Sound design",
+          "Story flow improvement",
         ],
         image: "/images/cross-platform.webp",
       },
     },
   },
   "social-media-marketing": {
-    tabs: ["Design", "Development", "CustomMobile", "Analytics", "ASO"],
+    tabs: ["Strategy", "ContentCreation", "Management", "PaidAdvertising", "BrandBuilding"],
     content: {
-      Design: {
-        title: "Mobile App Design",
+      Strategy: {
+        title: "Social Media Strategy",
         desc:
-          "When lead data is spread across multiple platforms, businesses face confusion and missed opportunities. A properly structured CRM keeps all customer information organized, accessible, and manageable.",
+          "A clear strategy makes your content meaningful, consistent, impactful, and aligned with your business goals.",
         points: [
-          "Custom app interface design",
-          "Modern UI/UX for mobile",
-          "Smooth user flows",
-          "Intuitive navigation",
-          "Visually engaging screen layouts",
+          "Audience research",
+          "Competitor analysis",
+          "Brand positioning",
+          "Content direction",
+          "Growth roadmap",
         ],
         image: "/images/app-development1.webp",
       },
 
-      Development: {
-        title: "Mobile App Development",
+      ContentCreation: {
+        title: "Content Creation",
         desc:
-          "With the help of advanced tools, building a fast, secure, and scalable app is essential. Clean and efficient code ensures long-term stability and excellent performance — the foundation of every good app development company in Delhi.",
+          "Content that looks real, relevant, and visually performs the best.",
         points: [
-          "Android & iOS development",
-          "Fast and optimized app performance",
-          "Secure architecture",
-          "API integrations & custom modules",
-          "Scalable and reliable code",
+          "Posts, reels, stories",
+          "Brand-aligned visuals",
+          "Captions & copywriting",
+          "Creative concepts",
+          "Trend-based ideas",
         ],
         image: "/images/app-development-for-ecommerce.webp",
       },
 
-      CustomMobile: {
-        title: "Custom Mobile Solutions",
+      Management: {
+        title: "Social Media Management",
         desc:
-          "We build mobile apps designed to solve real business problems — from bookings to e-commerce to internal tools.",
+          "Daily posting, scheduling, engagement, and consistent delivery — done for you.",
         points: [
-          "Custom feature development",
-          "Role-based access",
-          "Dashboard & analytics",
-          "Business-specific mobile tools",
-          "Scalable solutions for growth",
+          "Content calendar",
+          "Posting & scheduling",
+          "Comment & inbox support",
+          "Community engagement",
+          "Page optimization",
         ],
         image: "/images/custom-app.webp",
       },
 
-      Analytics: {
-        title: "App Analytics",
+      PaidAdvertising: {
+        title: "Paid Social Advertising",
         desc:
-          "Understanding how users interact with your app helps improve performance and engagement.",
+          "Reach the right people with targeted ads that actually convert.",
         points: [
-          "User behavior analytics",
-          "Engagement tracking",
-          "Performance reports",
-          "Crash reports & fixes",
-          "Data-based improvement suggestions",
+          "Facebook & Instagram ads",
+          "Lead generation ads",
+          "Retargeting campaigns",
+          "Ad creatives & copy",
+          "Performance monitoring",
         ],
         image: "/images/enterprise-app.webp",
       },
 
-      ASO: {
-        title: "App Store Optimization",
+      BrandBuilding: {
+        title: "Brand Building",
         desc:
-          "Optimizing your app for stores helps you gain more users and increase visibility.",
+          "Social media is more than posting — it's about shaping a brand people recognize and trust.",
         points: [
-          "Keyword optimization",
-          "Screenshots & descriptions",
-          "Screenshots & descriptions",
-          "Performance-based improvements",
-          "User feedback analysis",
+          "Brand tone & voice",
+          "Visual identity",
+          "Consistent storytelling",
+          "Highlight design",
+          "Reputation building",
         ],
         image: "/images/cross-platform.webp",
       },
     },
   },
   "digital-marketing-services": {
-    tabs: ["Design", "Development", "CustomMobile", "Analytics", "ASO"],
+    tabs: ["SEO", "SocialMediaMarketing", "GoogleAds", "ContentMarketing", "BrandStrategy"],
     content: {
-      Design: {
-        title: "Mobile App Design",
+      SEO: {
+        title: "SEO",
         desc:
-          "When lead data is spread across multiple platforms, businesses face confusion and missed opportunities. A properly structured CRM keeps all customer information organized, accessible, and manageable.",
+          "SEO improves your visibility and helps customers find your business naturally.",
         points: [
-          "Custom app interface design",
-          "Modern UI/UX for mobile",
-          "Smooth user flows",
-          "Intuitive navigation",
-          "Visually engaging screen layouts",
+          "Keyword research",
+          "On-page optimization",
+          "Technical fixes",
+          "High-quality content",
+          "Better Google ranking",
         ],
         image: "/images/app-development1.webp",
       },
 
-      Development: {
-        title: "Mobile App Development",
+      SocialMediaMarketing: {
+        title: "Social Media Marketing",
         desc:
-          "With the help of advanced tools, building a fast, secure, and scalable app is essential. Clean and efficient code ensures long-term stability and excellent performance — the foundation of every good app development company in Delhi.",
+          "A strong social presence across platforms builds trust and attracts new customers.",
         points: [
-          "Android & iOS development",
-          "Fast and optimized app performance",
-          "Secure architecture",
-          "API integrations & custom modules",
-          "Scalable and reliable code",
+          "Daily posting",
+          "Engagement & communication",
+          "Trend-driven content",
+          "Brand storytelling",
+          "Growth-focused strategy",
         ],
         image: "/images/app-development-for-ecommerce.webp",
       },
 
-      CustomMobile: {
-        title: "Custom Mobile Solutions",
+      GoogleAds: {
+        title: "Google Ads & Performance Marketing",
         desc:
-          "We build mobile apps designed to solve real business problems — from bookings to e-commerce to internal tools.",
+          "To reach your target market effectively, your ads must be accessible and visible to potential buyers.",
         points: [
-          "Custom feature development",
-          "Role-based access",
-          "Dashboard & analytics",
-          "Business-specific mobile tools",
-          "Scalable solutions for growth",
+          "Search ads",
+          "Display & YouTube ads",
+          "Retargeting",
+          "Lead generation campaigns",
+          "Cost-efficient optimization",
         ],
         image: "/images/custom-app.webp",
       },
 
-      Analytics: {
-        title: "App Analytics",
+      ContentMarketing: {
+        title: "Content Marketing",
         desc:
-          "Understanding how users interact with your app helps improve performance and engagement.",
+          "Good content builds authority and helps customers understand your value.",
         points: [
-          "User behavior analytics",
-          "Engagement tracking",
-          "Performance reports",
-          "Crash reports & fixes",
-          "Data-based improvement suggestions",
+          "Blogs & articles",
+          "Website content",
+          "Social content",
+          "Ad copy",
+          "Brand messaging",
         ],
         image: "/images/enterprise-app.webp",
       },
 
-      ASO: {
-        title: "App Store Optimization",
+      BrandStrategy: {
+        title: "Brand Strategy",
         desc:
-          "Optimizing your app for stores helps you gain more users and increase visibility.",
+          "A clear strategy keeps your brand consistent and meaningful across all platforms.",
         points: [
-          "Keyword optimization",
-          "Screenshots & descriptions",
-          "Screenshots & descriptions",
-          "Performance-based improvements",
-          "User feedback analysis",
+          "Market research",
+          "Brand positioning",
+          "Competitor insights",
+          "Communication tone",
+          "Long-term growth planning",
         ],
         image: "/images/cross-platform.webp",
       },
     },
   },
   "gmb-listing": {
-    tabs: ["Design", "Development", "CustomMobile", "Analytics", "ASO"],
+    tabs: ["Optimization", "PostingUpdates", "ReviewManagement", "LocalSEO", "InsightsReporting"],
     content: {
-      Design: {
-        title: "Mobile App Design",
+      Optimization: {
+        title: "GMB Optimization",
         desc:
-          "When lead data is spread across multiple platforms, businesses face confusion and missed opportunities. A properly structured CRM keeps all customer information organized, accessible, and manageable.",
+          "Complete setup and optimization so customers can find and trust your business.",
         points: [
-          "Custom app interface design",
-          "Modern UI/UX for mobile",
-          "Smooth user flows",
-          "Intuitive navigation",
-          "Visually engaging screen layouts",
+          "Business details optimization",
+          "Category selection",
+          "Keyword-rich description",
+          "Photo & media updates",
+          "Map ranking improvements",
         ],
         image: "/images/app-development1.webp",
       },
 
-      Development: {
-        title: "Mobile App Development",
+      PostingUpdates: {
+        title: "GMB Posting & Updates",
         desc:
-          "With the help of advanced tools, building a fast, secure, and scalable app is essential. Clean and efficient code ensures long-term stability and excellent performance — the foundation of every good app development company in Delhi.",
+          "Regular posts keep your profile active and engaging.",
         points: [
-          "Android & iOS development",
-          "Fast and optimized app performance",
-          "Secure architecture",
-          "API integrations & custom modules",
-          "Scalable and reliable code",
+          "Weekly posts",
+          "Offers & updates",
+          "Services & product highlights",
+          "Brand-focused content",
+          "Seasonal promotions",
         ],
         image: "/images/app-development-for-ecommerce.webp",
       },
 
-      CustomMobile: {
-        title: "Custom Mobile Solutions",
+      ReviewManagement: {
+        title: "GMB Review Management",
         desc:
-          "We build mobile apps designed to solve real business problems — from bookings to e-commerce to internal tools.",
+          "Strong reviews build trust and encourage customers to contact you.",
         points: [
-          "Custom feature development",
-          "Role-based access",
-          "Dashboard & analytics",
-          "Business-specific mobile tools",
-          "Scalable solutions for growth",
+          "Review monitoring",
+          "Reply management",
+          "Reputation improvement",
+          "Customer feedback strategy",
+          "Review-building recommendations",
         ],
         image: "/images/custom-app.webp",
       },
 
-      Analytics: {
-        title: "App Analytics",
+      LocalSEO: {
+        title: "Local SEO & Map Ranking",
         desc:
-          "Understanding how users interact with your app helps improve performance and engagement.",
+          "Better ranking = more visibility, calls, and visits.",
         points: [
-          "User behavior analytics",
-          "Engagement tracking",
-          "Performance reports",
-          "Crash reports & fixes",
-          "Data-based improvement suggestions",
+          "Local keyword optimization",
+          "Category & attribute setup",
+          "Competitor comparison",
+          "Listing cleanup",
+          "Authority building",
         ],
         image: "/images/enterprise-app.webp",
       },
 
-      ASO: {
-        title: "App Store Optimization",
+      InsightsReporting: {
+        title: "GMB Insights & Reporting",
         desc:
-          "Optimizing your app for stores helps you gain more users and increase visibility.",
+          "Clear reports that help you understand what’s working.",
         points: [
-          "Keyword optimization",
-          "Screenshots & descriptions",
-          "Screenshots & descriptions",
-          "Performance-based improvements",
-          "User feedback analysis",
+          "Monthly insights",
+          "Call & map direction tracking",
+          "Search visibility reports",
+          "Customer action data",
+          "Improvement suggestions",
         ],
         image: "/images/cross-platform.webp",
       },
     },
   },
   "ai-video-marketing": {
-    tabs: ["Design", "Development", "CustomMobile", "Analytics", "ASO"],
+    tabs: ["AICreation", "AIEditing", "VideoStrategy", "AISocialVideos", "CampaignVideos"],
     content: {
-      Design: {
-        title: "Mobile App Design",
+      AICreation: {
+        title: "AI Video Creation",
         desc:
-          "When lead data is spread across multiple platforms, businesses face confusion and missed opportunities. A properly structured CRM keeps all customer information organized, accessible, and manageable.",
+          "AI-powered video creation for faster and better marketing content.",
         points: [
-          "Custom app interface design",
-          "Modern UI/UX for mobile",
-          "Smooth user flows",
-          "Intuitive navigation",
-          "Visually engaging screen layouts",
+          "Product videos",
+          "Explainer videos",
+          "Social ads",
+          "Promo campaigns",
+          "Story-based videos",
         ],
         image: "/images/app-development1.webp",
       },
 
-      Development: {
-        title: "Mobile App Development",
+      AIEditing: {
+        title: "AI Editing & Enhancements",
         desc:
-          "With the help of advanced tools, building a fast, secure, and scalable app is essential. Clean and efficient code ensures long-term stability and excellent performance — the foundation of every good app development company in Delhi.",
+          "Smooth editing that improves quality without long production time.",
         points: [
-          "Android & iOS development",
-          "Fast and optimized app performance",
-          "Secure architecture",
-          "API integrations & custom modules",
-          "Scalable and reliable code",
+          "Clean cuts",
+          "Color correction",
+          "Voiceover enhancement",
+          "High-quality transitions",
+          "Color correction",
         ],
         image: "/images/app-development-for-ecommerce.webp",
       },
 
-      CustomMobile: {
-        title: "Custom Mobile Solutions",
+      VideoStrategy: {
+        title: "Marketing Video Strategy",
         desc:
-          "We build mobile apps designed to solve real business problems — from bookings to e-commerce to internal tools.",
+          "Videos designed to support your business goals.",
         points: [
-          "Custom feature development",
-          "Role-based access",
-          "Dashboard & analytics",
-          "Business-specific mobile tools",
-          "Scalable solutions for growth",
+          "Audience-focused content",
+          "Clear messaging",
+          "Call-to-action planning",
+          "Branding elements",
+          "Format optimization",
         ],
         image: "/images/custom-app.webp",
       },
 
-      Analytics: {
-        title: "App Analytics",
+      AISocialVideos: {
+        title: "AI Social Media Videos",
         desc:
-          "Understanding how users interact with your app helps improve performance and engagement.",
+          "Short, fast, eye-catching videos for social platforms.",
         points: [
-          "User behavior analytics",
-          "Engagement tracking",
-          "Performance reports",
-          "Crash reports & fixes",
-          "Data-based improvement suggestions",
+          "Reels & Shorts",
+          "Trend-based edits",
+          "Product highlights",
+          "Brand stories",
+          "High-retention video formats",
         ],
         image: "/images/enterprise-app.webp",
       },
 
-      ASO: {
-        title: "App Store Optimization",
+      CampaignVideos: {
+        title: "Campaign Videos",
         desc:
-          "Optimizing your app for stores helps you gain more users and increase visibility.",
+          "AI-generated videos that support ads and promotions.",
         points: [
-          "Keyword optimization",
-          "Screenshots & descriptions",
-          "Screenshots & descriptions",
-          "Performance-based improvements",
-          "User feedback analysis",
+          "Performance ad videos",
+          "Landing page videos",
+          "Event promotions",
+          "Seasonal campaigns",
+          "Retargeting visuals",
         ],
         image: "/images/cross-platform.webp",
       },
@@ -1379,6 +1375,7 @@ export const serviceProcess = {
     ],
   },
 };
+
 export const serviceExpectations = {
   "website-designing-development": {
     heading: " Our Web Development Services",
@@ -1439,125 +1436,125 @@ export const serviceExpectations = {
       },
     ],
   },
-    "mobile-app-development": {
+  "mobile-app-development": {
     heading: "Our Mobile App Development Services",
     description:
-      "We build modern, high-performance, SEO-friendly websites and web applications that help your business grow faster.",
+      "We build smooth, fast, modern, and high-performing mobile apps that help your business grow — not just look good. These are qualities that make us a trusted mobile application development agency.",
 
     stats: [
       {
-        value: "2x Faster",
-        label: "Website Performance Boost",
+        value: "2x Faster Performance",
+        label: "Your app loads quickly and feels smooth across devices.",
       },
       {
-        value: "99.9%",
-        label: "Uptime with Modern Deployment",
+        value: "99.9% Stability",
+        label: "Highly reliable architecture reduces crashes and downtime.",
       },
       {
-        value: "100%",
-        label: "Responsive & Mobile-First Design",
+        value: "100% User-Friendly Design",
+        label: "Your app feels natural, modern, and easy for all users.",
       },
     ],
 
     features: [
       {
-        title: "Modern UI/UX Design",
+        title: "Mobile UI/UX Design",
         desc:
-          "Premium, clean, and customer-focused interface design that improves engagement and builds trust.",
+          "Clean, attractive, and user-friendly screens that make your app feel premium, faster and easy to use which improves your visibility.",
         icon: "/images/ui-ux-design.webp",
       },
       {
-        title: "Next.js / React Development",
+        title: "React Native Development",
         desc:
-          "We use modern frameworks like Next.js and React to build fast, scalable, and maintainable web apps.",
+          "Our fast, scalable mobile development uses frameworks like React Native for smooth performance and easier updates.",
         icon: "/images/next-js.webp",
       },
       {
-        title: "SEO-Friendly Structure",
+        title: "Performance-Friendly Structure",
         desc:
-          "Your website is built with clean architecture, optimized loading speed, and Google-friendly structure.",
+          "Clean code, fast performance, optimized images, and responsive design ensure your app runs well on all devices — the standard followed by every top app development agency.",
         icon: "/images/seo.webp",
       },
       {
         title: "API Integration",
         desc:
-          "Seamless integration with CRM, payment gateways, inventory systems, and custom business APIs.",
+          "Connect your CRM with WhatsApp, email, payment systems, lead forms, websites, and third-party tools to run your operations very easily.",
         icon: "/images/api-integration.webp",
       },
       {
         title: "Custom Features",
         desc:
-          "From dashboards to booking systems — we build fully custom features based on your business needs.",
+          "Bookings, dashboards, messaging, tracking — we create exactly what your business needs.",
         icon: "/images/changes.webp",
       },
       {
         title: "Maintenance & Support",
         desc:
-          "Dedicated support, security monitoring, bug fixes, and continuous improvements for long-term success.",
+          "We provide new updates, fixes, improvements, and monitoring to keep your app running smoothly and faster all year long.",
         icon: "/images/custom-feature.webp",
       },
     ],
   },
-    "customize-crm-services": {
+  "customize-crm-services": {
     heading: "Our CRM Customization Services",
     description:
-      "We build modern, high-performance, SEO-friendly websites and web applications that help your business grow faster.",
+      "We build structured, user-friendly, fast, and practical CRM systems that actually help your business manage leads better — not just store data. These qualities make us a trusted CRM agency in Delhi.",
 
     stats: [
       {
-        value: "2x Faster",
-        label: "Website Performance Boost",
+        value: "2x Better Lead Tracking",
+        label: "Leads stay organized, updated, and traceable — without chaos.",
       },
       {
-        value: "99.9%",
-        label: "Uptime with Modern Deployment",
+        value: "3x Faster Response Time",
+        label: "Automations help your team reply faster and more consistently.",
       },
       {
-        value: "100%",
-        label: "Responsive & Mobile-First Design",
+        value: "100% Centralized Data",
+        label: "Everything your team needs is now in one place — simple and clean.",
       },
     ],
 
     features: [
       {
-        title: "Modern UI/UX Design",
+        title: "CRM UI Design",
         desc:
-          "Premium, clean, and customer-focused interface design that improves engagement and builds trust.",
+          "Clean, simple, distraction-free screens that help your team work faster and stay organized.",
         icon: "/images/ui-ux-design.webp",
       },
       {
-        title: "Next.js / React Development",
+        title: "CRM Automation Setup",
         desc:
-          "We use modern frameworks like Next.js and React to build fast, scalable, and maintainable web apps.",
+          "From follow-ups to notifications, automation helps reduce manual work and improves team productivity.",
         icon: "/images/next-js.webp",
       },
       {
-        title: "SEO-Friendly Structure",
+        title: "Pipeline Optimization",
         desc:
-          "Your website is built with clean architecture, optimized loading speed, and Google-friendly structure.",
+          "A clear and intuitive pipeline gives you a complete picture of your sales journey — from inquiry to conversion.",
         icon: "/images/seo.webp",
       },
       {
-        title: "API Integration",
+        title: "Centralized Data Management",
         desc:
-          "Seamless integration with CRM, payment gateways, inventory systems, and custom business APIs.",
+          "Connect your CRM with WhatsApp, email, payment systems, lead forms, websites, and third-party tools to run your operations very easily.",
         icon: "/images/api-integration.webp",
       },
       {
-        title: "Custom Features",
+        title: "Better Tracking & Reporting",
         desc:
-          "From dashboards to booking systems — we build fully custom features based on your business needs.",
+          "Dashboards, reports, activity logs, reminders — we customize whatever your team wants to work smoothly.",
         icon: "/images/changes.webp",
       },
       {
-        title: "Maintenance & Support",
+        title: "3X Faster",
         desc:
-          "Dedicated support, security monitoring, bug fixes, and continuous improvements for long-term success.",
+          "To guarantee that your CRM is functioning at peak efficiency, we offer continuous support through regular system updates and corrective actions to resolve any problems that arise.",
         icon: "/images/custom-feature.webp",
       },
     ],
   },
-    "ui-ux-design": {
+  "ui-ux-design": {
     heading: "Our UI/UX Design Services",
     description:
       "We build modern, high-performance, SEO-friendly websites and web applications that help your business grow faster.",
@@ -1616,292 +1613,283 @@ export const serviceExpectations = {
       },
     ],
   },
-    "digital-marketing-services": {
+  "digital-marketing-services": {
     heading: "Our Digital Marketing Services",
     description:
-      "We build modern, high-performance, SEO-friendly websites and web applications that help your business grow faster.",
+      "We help businesses grow using strategy, creativity, and data — that’s why many clients consider us as the best digital marketing agency and prefer partnering with our digital marketing agency website for long-term success.",
 
     stats: [
       {
-        value: "2x Faster",
-        label: "Website Performance Boost",
+        value: "3× Better Engagement",
+        label: "More inquiries from the right audience.",
       },
       {
-        value: "99.9%",
-        label: "Uptime with Modern Deployment",
+        value: "Stronger Online Visibility",
+        label: "People find your business more easily on Google and social media.",
       },
       {
-        value: "100%",
-        label: "Responsive & Mobile-First Design",
+        value: "100% Strategy-Driven Approach",
+        label: "Every step is planned with purpose.",
       },
     ],
 
     features: [
       {
-        title: "Modern UI/UX Design",
+        title: "SEO Expertise",
         desc:
-          "Premium, clean, and customer-focused interface design that improves engagement and builds trust.",
+          "Our SEO methods help your business appear higher on Google — essential for any serious digital marketing website.",
         icon: "/images/ui-ux-design.webp",
       },
       {
-        title: "Next.js / React Development",
+        title: "Content That Connects",
         desc:
-          "We use modern frameworks like Next.js and React to build fast, scalable, and maintainable web apps.",
+          "We create content that speaks to your audience like a real conversation, not an advertisement.",
         icon: "/images/next-js.webp",
       },
       {
-        title: "SEO-Friendly Structure",
+        title: "Social Media Growth",
         desc:
-          "Your website is built with clean architecture, optimized loading speed, and Google-friendly structure.",
+          "Your social pages stay active, engaging, and aligned with your branding.",
         icon: "/images/seo.webp",
       },
       {
-        title: "API Integration",
+        title: "Paid Ad Optimization",
         desc:
-          "Seamless integration with CRM, payment gateways, inventory systems, and custom business APIs.",
+          "Data-backed ad management that reduces cost and improves results.",
         icon: "/images/api-integration.webp",
       },
       {
-        title: "Custom Features",
+        title: "Custom Digital Solutions",
         desc:
-          "From dashboards to booking systems — we build fully custom features based on your business needs.",
+          "Every business is different — we design solutions based on your goals, not templates.",
         icon: "/images/changes.webp",
       },
       {
         title: "Maintenance & Support",
         desc:
-          "Dedicated support, security monitoring, bug fixes, and continuous improvements for long-term success.",
+          "We create content that is conversational, rather than an advertisement.",
         icon: "/images/custom-feature.webp",
       },
     ],
   },
-    "social-media-marketing": {
+  "social-media-marketing": {
     heading: "Our Social Media Marketing Services",
     description:
-      "We build modern, high-performance, SEO-friendly websites and web applications that help your business grow faster.",
+      "We help you grow with real, engaging content and clear strategy — the reason many brands consider us the Best Social Media Marketing Agency.",
 
     stats: [
       {
-        value: "2x Faster",
-        label: "Website Performance Boost",
+        value: "3× Better Engagement",
+        label: "People react, comment, and share more often.",
       },
       {
-        value: "99.9%",
-        label: "Uptime with Modern Deployment",
+        value: "Stronger Brand Presence",
+        label: "Your brand looks consistent, clean, and trustworthy.",
       },
       {
-        value: "100%",
-        label: "Responsive & Mobile-First Design",
+        value: "100% Strategy-Backed Content",
+        label: "Nothing random — everything planned with purpose.",
       },
     ],
 
     features: [
       {
-        title: "Modern UI/UX Design",
+        title: "Creative Content Production",
         desc:
-          "Premium, clean, and customer-focused interface design that improves engagement and builds trust.",
+          "We create content that feels genuine,modern,and relatable - designed to connect with real people.",
         icon: "/images/ui-ux-design.webp",
       },
       {
-        title: "Next.js / React Development",
+        title: "Consistent Social Presence",
         desc:
-          "We use modern frameworks like Next.js and React to build fast, scalable, and maintainable web apps.",
+          "Your Content stays active and auto-updated, even when you're offline.",
         icon: "/images/next-js.webp",
       },
       {
-        title: "SEO-Friendly Structure",
+        title: "Data-Driven Growth",
         desc:
-          "Your website is built with clean architecture, optimized loading speed, and Google-friendly structure.",
+          "We Use insights, analytics, and trends to fine-best content and strategy",
         icon: "/images/seo.webp",
       },
       {
-        title: "API Integration",
+        title: "Ad Campaign Optimization",
         desc:
-          "Seamless integration with CRM, payment gateways, inventory systems, and custom business APIs.",
+          "Efficeient ad targeting that reduces cost and increases results - a key feature of top SMM companies in Delhi.",
         icon: "/images/api-integration.webp",
       },
       {
-        title: "Custom Features",
+        title: "Custom Creative Solutions",
         desc:
-          "From dashboards to booking systems — we build fully custom features based on your business needs.",
+          "Every business is different - we create plans that fit your exact goals of your business.",
         icon: "/images/changes.webp",
       },
       {
         title: "Maintenance & Support",
         desc:
-          "Dedicated support, security monitoring, bug fixes, and continuous improvements for long-term success.",
+          "We support your brand continuosly with new updates, best analysis reports, and improvment recommendations.",
         icon: "/images/custom-feature.webp",
       },
     ],
   },
-    "gmb-listing": {
+  "gmb-listing": {
     heading: "Our GMB Listing Services",
     description:
-      "We build modern, high-performance, SEO-friendly websites and web applications that help your business grow faster.",
+      "We help your business show up clearly, look trustworthy, and attract more local customers. This is why many businesses rely on our GMB optimization services.",
 
     stats: [
       {
-        value: "2x Faster",
-        label: "Website Performance Boost",
+        value: "3× Better Engagement",
+        label: "More people discovering your business through search and maps",
       },
       {
-        value: "99.9%",
-        label: "Uptime with Modern Deployment",
+        value: "Stronger Online Visibility",
+        label: "Better visibility brings more real customers",
       },
       {
-        value: "100%",
-        label: "Responsive & Mobile-First Design",
+        value: "100% Strategy-Driven Approach",
+        label: "Every step is planned with purpose.",
       },
     ],
 
     features: [
       {
-        title: "Modern UI/UX Design",
+        title: "Stronger Local Reputation",
         desc:
-          "Premium, clean, and customer-focused interface design that improves engagement and builds trust.",
+          "Active posting and good reviews build trust.",
         icon: "/images/ui-ux-design.webp",
       },
       {
-        title: "Next.js / React Development",
+        title: "Clean & Complete Profile Setup",
         desc:
-          "We use modern frameworks like Next.js and React to build fast, scalable, and maintainable web apps.",
+          "A well-filled profile increases trust and improves ranking.",
         icon: "/images/next-js.webp",
       },
       {
-        title: "SEO-Friendly Structure",
+        title: "Content That Builds Credibility",
         desc:
-          "Your website is built with clean architecture, optimized loading speed, and Google-friendly structure.",
+          "Posts, photos, and offers that make your business look active and reliable.",
         icon: "/images/seo.webp",
       },
       {
-        title: "API Integration",
+        title: "Better Map Ranking",
         desc:
-          "Seamless integration with CRM, payment gateways, inventory systems, and custom business APIs.",
+          "Simple, natural improvements that boost your local search position.",
         icon: "/images/api-integration.webp",
       },
       {
-        title: "Custom Features",
+        title: "Review & Reputation Management",
         desc:
-          "From dashboards to booking systems — we build fully custom features based on your business needs.",
-        icon: "/images/changes.webp",
-      },
-      {
-        title: "Maintenance & Support",
-        desc:
-          "Dedicated support, security monitoring, bug fixes, and continuous improvements for long-term success.",
+          "Helping your business earn and manage good reviews consistently.",
         icon: "/images/custom-feature.webp",
       },
+
     ],
   },
-    "ai-video-marketing": {
+  "ai-video-marketing": {
     heading: "Our AI Video Marketing Services",
     description:
-      "We build modern, high-performance, SEO-friendly websites and web applications that help your business grow faster.",
+      "We help you create videos that feel modern, clean, and engaging — faster and more affordably than traditional methods. This is why many businesses choose our ai video marketing agency in Delhi.",
 
     stats: [
       {
-        value: "2x Faster",
-        label: "Website Performance Boost",
+        value: "5× Faster Video Production",
+        label: "Create more videos in less time",
       },
       {
-        value: "99.9%",
-        label: "Uptime with Modern Deployment",
-      },
-      {
-        value: "100%",
-        label: "Responsive & Mobile-First Design",
+        value: "Higher Engagement",
+        label: "AI visuals keep people watching longer",
       },
     ],
 
     features: [
       {
-        title: "Modern UI/UX Design",
+        title: "Better Branding & Consistency",
         desc:
-          "Premium, clean, and customer-focused interface design that improves engagement and builds trust.",
+          "Your videos follow the same look, tone, and message.",
         icon: "/images/ui-ux-design.webp",
       },
       {
-        title: "Next.js / React Development",
+        title: "AI Video Storytelling",
         desc:
-          "We use modern frameworks like Next.js and React to build fast, scalable, and maintainable web apps.",
+          "We make sure your videos tell a story people understand — not just clips stitched together.",
         icon: "/images/next-js.webp",
       },
       {
-        title: "SEO-Friendly Structure",
+        title: "Smooth Visual Quality",
         desc:
-          "Your website is built with clean architecture, optimized loading speed, and Google-friendly structure.",
+          "Crisp visuals, clean motion, and polished edits that look premium.",
         icon: "/images/seo.webp",
       },
       {
-        title: "API Integration",
+        title: "Cost-Effective Production",
         desc:
-          "Seamless integration with CRM, payment gateways, inventory systems, and custom business APIs.",
+          "AI allows you to create high-quality marketing videos without heavy budgets.",
         icon: "/images/api-integration.webp",
       },
       {
-        title: "Custom Features",
+        title: "Custom Video Solutions",
         desc:
-          "From dashboards to booking systems — we build fully custom features based on your business needs.",
+          "Whether it’s ads, explainers, product showcases, or reels — we create exactly what your brand needs.",
         icon: "/images/changes.webp",
       },
       {
-        title: "Maintenance & Support",
+        title: "Ongoing Support & Video Management",
         desc:
-          "Dedicated support, security monitoring, bug fixes, and continuous improvements for long-term success.",
+          "Consistent updates, new video ideas, and campaign support whenever needed.",
         icon: "/images/custom-feature.webp",
       },
     ],
   },
-    "graphic-design": {
+  "graphic-design": {
     heading: "Our Graphic Design Services",
     description:
-      "We build modern, high-performance, SEO-friendly websites and web applications that help your business grow faster.",
+      "We make clean, modern, meaningful, and conversation focused designs that help you to increase your brand visibility. That is why many brands consider us the best graphic design company in Delhi.",
 
     stats: [
       {
-        value: "2x Faster",
-        label: "Website Performance Boost",
+        value: "2x Better Brand Recognition",
+        label: "Your visuals stay consistent and memorable.",
       },
       {
-        value: "99.9%",
-        label: "Uptime with Modern Deployment",
+        value: "Higher Social Engagement",
+        label: "Eye-catching designs that attract more attention.",
       },
       {
-        value: "100%",
-        label: "Responsive & Mobile-First Design",
+        value: "100% Brand-Aligned Design",
+        label: "Every graphic follows your brand tone, color, and message.",
       },
     ],
 
     features: [
       {
-        title: "Modern UI/UX Design",
+        title: "Brand Design Expertise",
         desc:
-          "Premium, clean, and customer-focused interface design that improves engagement and builds trust.",
+          "We use clean, modern design approaches that make your brand feel professional and easy to recognize.",
+        icon: "/images/changes.webp",
+      },
+      {
+        title: "Creative Process",
+        desc:
+          "Our design process is simple, attractive, collaborative, and focused on understanding your brand before creating visuals.",
         icon: "/images/ui-ux-design.webp",
       },
       {
-        title: "Next.js / React Development",
+        title: "Quality-Driven Output",
         desc:
-          "We use modern frameworks like Next.js and React to build fast, scalable, and maintainable web apps.",
+          "High-quality visuals that work across social media, print, and ads — essential for every strong graphic design agency.",
         icon: "/images/next-js.webp",
       },
       {
-        title: "SEO-Friendly Structure",
+        title: "Design System Setup",
         desc:
-          "Your website is built with clean architecture, optimized loading speed, and Google-friendly structure.",
+          "We help you maintain consistent branding across all platforms with structured design guidelines.",
         icon: "/images/seo.webp",
       },
       {
-        title: "API Integration",
+        title: "Custom Creative Solutions",
         desc:
-          "Seamless integration with CRM, payment gateways, inventory systems, and custom business APIs.",
+          "From illustrations to campaign graphics — we create whatever your brand needs.",
         icon: "/images/api-integration.webp",
-      },
-      {
-        title: "Custom Features",
-        desc:
-          "From dashboards to booking systems — we build fully custom features based on your business needs.",
-        icon: "/images/changes.webp",
       },
       {
         title: "Maintenance & Support",
@@ -2107,145 +2095,140 @@ export const whyChooseUs = {
   "customize-crm-services": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["CRM Development Speed", "3–5 Days", "2–4 Weeks"],
+      ["Workflow Automation", "Advanced", "Basic or None"],
+      ["Lead Management", "Smart Auto-Tracking", "Manual / Limited"],
+      ["Integrations", "Unlimited (API Based)", "Restricted"],
+      ["UI/UX", "Clean & Modern", "Outdated"],
+      ["Data Security", "High-Level Encryption", "Low/Unknown"],
+      ["Mobile Friendly", "yes", "no"],
+      ["Customization Level", "Fully Tailored", "Template-Based"],
+      ["Scalability", "High", "Low"],
+      ["Support", "Dedicated 24/7", "Slow or Paid"],
     ],
   },
   "mobile-app-development": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["Development Time", "1–2 Weeks", "1–2 Months"],
+      ["Frameworks", "React Native / Flutter", "Old Hybrid Apps"],
+      ["UI/UX Quality", "Premium App UI", "Basic Screens"],
+      ["Performance", "Optimized", "Laggy"],
+      ["API Integration", "Advanced", "Limited"],
+      ["Testing", "Full QA / Bug-Free", "Minimal"],
+      ["Play Store Support", "yes", "no"],
+      ["Security", "Encrypted", "Low-Level"],
+      ["Maintenance", "Included", "Paid"],
+      ["Custom Features", "Fully Custom", "Restricted"],
     ],
   },
   "graphic-design": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["Creative Quality", "High-End", "Average"],
+      ["Delivery Speed", "Same Day", "2–3 Days"],
+      ["Brand Consistency", "yes", "no"],
+      ["Tools Used", "Figma / Illustrator", "Basic Apps"],
+      ["Custom Illustrations", "yes", "no"],
+      ["Revisions", "yes", "no"],
+      ["Responsive Design", "Unlimited", "1–2 Only"],
+      ["Creativity", "Original", "Copied Templates"],
+      ["Social Media Posts", "High-Engagement", "Low Engagement"],
+      ["Brand Identity", "Professional", "Unstructured"],
+      ["Formats", "HD + All Formats", "Limited "],
     ],
   },
   "video-editing": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["Editing Style", "Cinematic & Modern", "Basic Cuts"],
+      ["Turnaround Time", "24–48 Hours", "3–7 Days"],
+      ["Color Grading", "yes", "no"],
+      ["Motion Graphics", "Advanced", "Minimal"],
+      ["AI Enhancement", "yes", "no"],
+      ["Script + Voiceover", "Available", "Not Available"],
+      ["Social Friendly Formats", "All Sizes", "Limited"],
+      ["Revisions", "Unlimited", "Limited"],
+      ["Quality", "HD/4K", "720p"],
+      ["Delivery", "Fast & Organized", "Slow"],
     ],
   },
   "social-media-marketing": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["Content Strategy", "Data Driven", "Random Posting"],
+      ["Ad Campaigns", "Optimized", "Basic"],
+      ["Creative Quality", "Premium", "Template Based"],
+      ["Growth Strategy", "Organic + Paid", "Only Paid"],
+      ["Analytics", "Weekly", "Rare"],
+      ["Engagement Rate", "High", "Low"],
+      ["Tools", "AI + Pro Tools", "Free Tools"],
+      ["Posting Frequency", "Consistent", "Irregular"],
+      ["Brand Voice", "Strong", "Weak"],
+      ["Support", "Dedicated", "Slow"],
+      ["Support", "Dedicated", "Slow"],
     ],
   },
   "digital-marketing-services": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["Campaign Setup Time", "24–48 Hours", "Long Onboarding"],
+      ["Marketing Strategy", "Custom & Data-Driven", "Generic Approach"],
+      ["SEO Optimization", "yes", "no"],
+      ["PPC & Ads Management", "yes", "no"],
+      ["Social Media Marketing", "yes", "no"],
+      ["Content Creation & Copywriting", "yes", "no"],
+      ["Graphic Design & Branding", "yes", "no"],
+      ["Analytics & Reporting", "yes", "no"],
+      ["Lead Generation & Conversion", "yes", "no"],
+      ["Time Zone Support", "Overlap With Clients", "No Overlap"],
+      ["100% Satisfaction Guarantee", "yes", "no"],
     ],
   },
   "gmb-listing": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["GMB Setup", "Complete", "Partial"],
+      ["Ranking Boost", "Fast", "Very Slow"],
+      ["Reviews Strategy", "Organic + Ethical", "Fake Reviews"],
+      ["Profile Optimization", "Full", "Minimal"],
+      ["Weekly Posts", "yes", "no"],
+      ["Keyword Targeting", "Strong", "Weak"],
+      ["Insights Tracking", "Regular", "Rare"],
+      ["Local Ranking", "Top 3 Possible", "Uncertain"],
+      ["Images & Videos", "Professional", "Low Quality"],
+      ["Support", "Dedicated", "None"],
     ],
   },
   "ai-video-marketing": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["Video Creation Speed", "Same Day", "4–7 Days"],
+      ["AI Avatars", "yes", "no"],
+      ["Voiceovers", "AI + Human Mix", "Robotic Only"],
+      ["Script Writing", "AI + Human", "Basic"],
+      ["Editing", "Cinematic", "Simple"],
+      ["Ad Optimization", "High", "Low"],
+      ["Revisions", "Unlimited", "Limited"],
+      ["Formats", "All Social Media Sizes", "Few Formats"],
+      ["Output Quality", "HD/4K", "720p"],
+      ["Turnaround", "Super Fast", "Slow"],
     ],
   },
 };
@@ -2282,22 +2265,22 @@ export const teamMembers = [
   },
 ];
 export const whyChooseUsfront = {
-  "website-designing-development": {
+  "digital-marketing-services": {
     title: "Why You Choose Digital Pulse",
     subtitle:
-      "We don’t just build websites — we deliver scalable, high-performance digital products with measurable results.",
+      "We don’t just run campaigns — we drive growth. From fast campaign launches to measurable ROI and data-driven strategies, here’s why we stand apart.",
     rows: [
-      ["Project Kickoff Speed", "1–2 Days", "1–2 Weeks"],
-      ["UI/UX Quality", "Premium & Modern", "Basic Templates"],
-      ["Frontend Frameworks", "Next.js / React", "Old or Mixed Tech"],
-      ["Performance Optimization", "yes", "no"],
-      ["API Integration", "yes", "limited"],
-      ["SEO-Friendly Structure", "yes", "no"],
-      ["Responsive Design", "yes", "no"],
-      ["Security Standards", "High-Level", "Low / Unknown"],
-      ["Maintenance Support", "Dedicated", "Unavailable / Paid"],
-      ["Custom Functionality", "Fully Custom", "Restricted"],
-      ["Deployment", "Modern CI/CD", "Manual Upload"],
+      ["Campaign Setup Time", "24–48 Hours", "Long Onboarding"],
+      ["Marketing Strategy", "Custom & Data-Driven", "Generic Approach"],
+      ["SEO Optimization", "yes", "no"],
+      ["PPC & Ads Management", "yes", "no"],
+      ["Social Media Marketing", "yes", "no"],
+      ["Content Creation & Copywriting", "yes", "no"],
+      ["Graphic Design & Branding", "yes", "no"],
+      ["Analytics & Reporting", "yes", "no"],
+      ["Lead Generation & Conversion", "yes", "no"],
+      ["Time Zone Support", "Overlap With Clients", "No Overlap"],
+      ["100% Satisfaction Guarantee", "yes", "no"],
     ],
   },
 };
@@ -2365,7 +2348,6 @@ export const SERVICES = [
   ["Google My Business Listing", "/services/gmb-listing"],
   ["AI Video Marketing", "/services/ai-video-marketing"],
 ];
-// data/portfolioData.js
 export const PORTFOLIO_SECTIONS = [
   {
     heading: "Professional Websites",
@@ -2414,4 +2396,247 @@ export const PORTFOLIO_SECTIONS = [
       },
     ],
   },
+  {
+    heading: "Ecommerce Websites",
+    items: [
+      {
+        image: "/images/call-my-tailor.webp",
+        title: "CALL MY TAILOR",
+        desc: "Custom tailoring ecommerce platform with online measurements, service booking, and seamless order management.",
+        link: "https://callmytailor.com/",
+      },
+      {
+        image: "/images/divine-perfume.webp",
+        title: "DIVINE PERFUME",
+        desc: "Premium perfume store with curated fragrances, clean UI, and advanced filtering.",
+        link: "https://divineperfume.uk/",
+      },
+      {
+        image: "/images/indian-basket.webp",
+        title: "INDIAN BASKET",
+        desc: "Grocery ecommerce website offering fast delivery, intuitive shopping flow and optimized checkout.",
+        link: "https://indianbasket.in/",
+      },
+      {
+        image: "/images/indian-marigold.webp",
+        title: "INDIAN MARIGOLD",
+        desc: "Ethnic wear ecommerce site with premium product visuals and smooth browsing experience.",
+        link: "https://indian-marigold.com/",
+      },
+      {
+        image: "/images/lemon-tree-home.webp",
+        title: "LEMON TREE HOME",
+        desc: "Organic skincare ecommerce UI with minimal, elegant, nature-inspired design.",
+        link: "https://lemontreehome.in/",
+      },
+      {
+        image: "/images/timesQartz.webp",
+        title: "TIMES QAZART",
+        desc: "Luxury watch brand ecommerce experience with detail-rich product pages and premium styling.",
+        link: "https://timesquartz.com/",
+      },
+    ],
+  },
+  {
+    heading: "Ads Run ROI",
+    items: [
+      {
+        image: "/images/april.webp",
+        title: "APRIL ADS RETURN",
+        desc: "Facebook & Instagram Ads campaign with strong CTR, quality leads, and 3x ROAS.",
+        link: "#",
+      },
+      {
+        image: "/images/may.webp",
+        title: "MAY ADS RETURN",
+        desc: "Meta & Google Ads strategy delivering higher intent leads and improved conversions.",
+        link: "#",
+      },
+      {
+        image: "/images/june.webp",
+        title: "JUNE ADS RETURN",
+        desc: "Performance ads with reduced CPL, high conversions and superior optimization.",
+        link: "#",
+      }
+    ],
+  },
+  {
+    heading: "Website Ecommerce SEO Report",
+    items: [
+      {
+        image: "/images/april1.webp",
+        title: "SEO ANALYSIS APRIL REPORT",
+        desc: "Traffic growth through content optimization, keyword updates, and rank improvement.",
+        link: "#",
+      },
+      {
+        image: "/images/may1.webp",
+        title: "SEO ANALYSIS MAY REPORT",
+        desc: "Technical SEO fixes, health improvements, and high-value keyword ranking boost.",
+        link: "#",
+      },
+      {
+        image: "/images/june1.webp",
+        title: "SEO ANALYSIS JUNE REPORT",
+        desc: "Backlink growth, improved domain authority, and better SERP positioning.",
+        link: "#",
+      }
+    ],
+  },
 ];
+export const clientStoriesBySlug = {
+  "website-designing-development": {
+    heading: "Satisfied Client Stories",
+    title:
+      "420% Traffic Growth & 3x Leads in 90 Days",
+    description:
+      "A premium education institute partnered with us to boost organic visibility and reduce dependency on paid ads. Within just 3 months, our SEO + Content Strategy delivered outstanding results.",
+    stats: [
+      ["+420%", "Organic Traffic"],
+      ["3X", "Monthly Leads"],
+      ["87%", "Bounce Rate Drop"],
+      ["5x", "Page Engagement"],
+    ],
+    testimonial:
+      "“Digital Pulse completely transformed our online presence! We started seeing real results within weeks. Their SEO expertise and strategic approach were game-changing.”",
+    author: "— IFDA Institute, Delhi",
+    image: "/images/ai.webp",
+  },
+  "customize-crm-services": {
+    heading: "Satisfied Client Stories",
+    title:
+      "350% Productivity Boost & Improved Lead Performance",
+    description:
+      "One of our clients experienced massive improvement in workflow efficiency and sales follow-up quality after implementing our CRM services. They were able to respond faster, track leads accurately, and maintain consistent communication.",
+    stats: [
+      ["+350%", "Team Productivity"],
+      ["3X", "Better Lead Handling"],
+      ["80%", "Reduction in Manual Tasks"],
+      ["5x", "Page Engagement"],
+    ],
+    testimonial:
+      "“Setting up the CRM completely changed how our team works. Everything became easier — lead tracking, follow-ups, and sales. The system helped us stay organized and convert more. Amazing work.”",
+    author: "— IFDA Institute, Delhi",
+    image: "/images/ai.webp",
+  },
+  "mobile-app-development": {
+    heading: "Satisfied Client Stories",
+    title:
+      "300% Better User Engagement & Higher App Retention",
+    description:
+      "One of our clients saw a major increase in user activity and retention after upgrading their mobile app through our CRM and mobile app development services. Consistent performance and better design helped deliver measurable improvements.",
+    stats: [
+      ["+300%", "User Engagement"],
+      ["2.5X", "Better Retention"],
+      ["70%", "Fewer Crashes"],
+      ["5×", "Higher Conversions"],
+    ],
+    testimonial:
+      "“After the mobile app redesign, our customers stayed longer and interacted more. The performance and design improvements made a huge difference. Truly impressed with the work.”",
+    author: "— IFDA Institute, Delhi",
+    image: "/images/ai.webp",
+  },
+  "graphic-design": {
+    heading: "Satisfied Client Stories",
+    title:
+      "We offer ongoing design support for your marketing, social media, and brand updates.",
+    description:
+      "One of our clients experienced significantly higher visibility and engagement after switching to our graphic design services. Clean and consistent visuals helped them build a stronger brand presence.",
+    stats: [
+      ["430%", "Social Media Engagement"],
+      ["3.5X", "Better Brand Recall"],
+      ["High-Quality", "Creatives Across Platforms"],
+      ["5×", "Higher Conversions"],
+    ],
+    testimonial:
+      "“Our creatives finally look professional and aligned with our brand. The design quality improved our marketing instantly. Amazing work and truly dependable.”",
+    author: "— IFDA Institute, Delhi",
+    image: "/images/ai.webp",
+  },
+  "ai-video-marketing": {
+    heading: "Satisfied Client Stories",
+    title:
+      "Consistent updates, new video ideas, and campaign support whenever needed.",
+    description:
+      "Our client witnessed significant improvements in marketing performance after transitioning to AI-powered video content.",
+    stats: [
+      ["410%", "Higher Engagement"],
+      ["3×", "Better Conversions"],
+      ["2.1×", "Stronger Brand Recall"],
+      ["10×", "Faster Production Workflow"],
+    ],
+    testimonial:
+      "“Our marketing videos finally look modern and engaging. The AI visuals really helped us stand out. We saw higher engagement and better results almost immediately.”",
+    author: "— IFDA Institute, Delhi",
+    image: "/images/ai.webp",
+  },
+  "video-editing": {
+    heading: "Satisfied Client Stories",
+    title:
+      "We offer ongoing design support for your marketing, social media, and brand updates.",
+    description:
+      "One of our clients saw massive improvements in their video performance after taking to our editing services. Clean visuals, better pacing, and stronger storytelling helped them connect with their audience and increase their traffic.",
+    stats: [
+      ["410%", "Video Engagement"],
+      ["3X", "Better Watch Time"],
+      ["People watched", "longer without skipping."],
+      ["1.8x", "Better Conversions"],
+    ],
+    testimonial:
+      "“Our videos finally look clean and professional. Engagement went up instantly. The editing quality made a huge difference. Very happy with the work.”",
+    author: "IFDA Institute, Delhi",
+    image: "/images/ai.webp",
+  },
+  "social-media-marketing": {
+    heading: "Satisfied Client Stories",
+    title:
+      "We support your brand continuously with new updates, best analysis reports, and improvement recommendations.",
+    description:
+      "Utilizing social media as an integral piece of our marketing plan takes advantage of their massive, engaged user bases to engage with new customers and increase brand awareness.Strong content and consistent posting helped them grow their audience much faster.",
+    stats: [
+      ["410%", "Engagement Growth"],
+      ["3×", "More Followers"],
+      ["2.3×", "Improved Brand Visibility."],
+      ["2.3×", "Higher Lead Flow"],
+    ],
+    testimonial:
+      "“Our social media finally started working for us. The posts, strategy, and consistency made a real difference. Engagement went up immediately. Super happy with the results.”",
+    author: "IFDA Institute, Delhi",
+    image: "/images/ai.webp",
+  },
+  "gmb-listing": {
+    heading: "Satisfied Client Stories",
+    title:
+      "We keep your profile active, updated, and optimized — always.",
+    description:
+      "One of our clients saw major improvement after consistent GMB optimization. Their business started ranking higher in Google Maps, leading to more calls and more walk-in customers.",
+    stats: [
+      ["410%", "Website Traffic"],
+      ["3×", "More Customer Actions"],
+      ["2.1×", "Stronger Local Reputation."],
+      ["10×", "Higher Google Maps Ranking"],
+    ],
+    testimonial:
+      "“Our Google profile finally started bringing real customers. We saw more calls, better visibility, and stronger trust. The optimization made a huge difference.”",
+    author: "IFDA Institute, Delhi",
+    image: "/images/ai.webp",
+  },
+
+  "digital-marketing-services": {
+    heading: "Satisfied Client Stories",
+    title:
+      "We create content that is conversational, rather than an advertisement.",
+    description:
+      "One of our clients experienced massive growth after implementing our digital marketing strategies. Targeted campaigns and smart content helped them build trust and generate consistent leads.",
+    stats: [
+      ["520%", "Website Traffic"],
+      ["4X", "Lead Conversions"],
+      ["2.1X", "Stronger Brand Identity"],
+      ["5×", "Higher ROI"],
+    ],
+    testimonial:
+      "“Our online visibility transformed completely. We started getting consistent leads, better traffic, and stronger engagement. This agency truly understands digital marketing.”",
+    author: "IFDA Institute, Delhi",
+    image: "/images/digital-marketing.webp",
+  },
+};

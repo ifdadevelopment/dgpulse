@@ -42,8 +42,8 @@ export default function ServiceCapabilities({ data }) {
                                     key={`${activeTab}-${index}`}
                                     className="flex items-start gap-3 text-gray-700"
                                 >
-                                    <span className="text-[#0b1a3a] text-xl">•</span>
-                                    <span className="font-medium">
+                                    <span className="text-[#faa61a] text-2xl">•</span>
+                                    <span className="font-semibold text-lg text-[#0b1a3a]">
                                         {typeof point === "string" ? point : point?.label}
                                     </span>
                                 </li>

@@ -5,10 +5,10 @@ import { PortfolioCard } from "./PortfolioCard";
 export default function PortfolioPage() {
   return (
     <div className="bg-sky">
-      <div className="relative text-center py-20 md:py-20 mt-20 to-white shadow-xl">
+      <div className="relative text-center py-14 md:py-24  shadow-xl">
         <div className="absolute inset-0 " />
 
-        <h1 className="relative text-4xl md:text-5xl font-extrabold mb-4">
+        <h1 className="relative text-3xl md:text-5xl font-extrabold mb-4">
           Our Client Portfolio
         </h1>
 
@@ -17,10 +17,10 @@ export default function PortfolioPage() {
           high-performing digital solutions.
         </p>
       </div>
-      <div className="max-w-6xl mx-auto py-20 px-4 md:px-6">
+      <div className="max-w-6xl mx-auto md:py-20 py-8 px-4 md:px-6">
         {PORTFOLIO_SECTIONS.map((section) => (
-          <section key={section.heading} className="mb-24">
-            <h2 className="text-3xl md:text-4xl font-extrabold text-center mb-14">
+          <section key={section.heading} className="md:mb-20 mb-12">
+            <h2 className="text-2xl md:text-4xl font-extrabold text-center mb-8 md:mb-14">
               <span className="bg-[#0b1a3a] hover:bg-[#faa61a]
                                text-transparent bg-clip-text">
                 {section.heading}

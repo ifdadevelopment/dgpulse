@@ -36,7 +36,7 @@ export default function WhyChooseUs({ data }) {
               {item.subtitle}
             </p>
             <div className="hidden md:block bg-white/90 backdrop-blur-xl rounded-2xl shadow-xl border border-gray-200 overflow-hidden">
-              <div className="grid grid-cols-3 bg-gray-100 py-4 px-6 font-semibold text-gray-700 text-sm uppercase">
+              <div className="grid grid-cols-3 bg-gray-100 py-4 px-6 font-bold text-gray-700 text-md uppercase">
                 <div>Aspects</div>
                 <div className="text-center">Digital Pulse</div>
                 <div className="text-center">Other Agencies</div>
@@ -49,7 +49,7 @@ export default function WhyChooseUs({ data }) {
                     i % 2 === 0 ? "bg-gray-50" : "bg-white"
                   }`}
                 >
-                  <div className="font-medium">{aspect}</div>
+                  <div className="font-bold">{aspect}</div>
 
                   <div className="flex justify-center">
                     {ours === "yes" ? <Tick /> : ours}
@@ -71,12 +71,12 @@ export default function WhyChooseUs({ data }) {
                     {aspect}
                   </h4>
 
-                  <p className="text-sm text-gray-700">
+                  <p className="text-sm  text-gray-700">
                     <strong>Digital Pulse:</strong>{" "}
                     {ours === "yes" ? "✓" : ours}
                   </p>
 
-                  <p className="text-sm text-gray-500 mt-1">
+                  <p className="text-sm  text-gray-500 mt-1">
                     <strong>Other Agencies:</strong>{" "}
                     {others === "no" ? "✕" : others}
                   </p>

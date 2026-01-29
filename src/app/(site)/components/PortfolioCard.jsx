@@ -1,10 +1,10 @@
 import Image from "next/image";
 
 export const PortfolioCard = ({ image, title, desc, link }) => (
-  <div className="rounded-2xl bg-white p-6 shadow-lg border border-pink-100 backdrop-blur-md
-                  hover:shadow-2xl transition-all duration-300 hover:border-pink-300">
+  <div className="rounded-2xl bg-white p-6 shadow-lg border border-[#0b1a3a] backdrop-blur-md
+                  hover:shadow-2xl transition-all duration-300 hover:border-[#0b1a3a]">
 
-    <div className="relative h-56 mb-6 rounded-xl bg-gradient-to-br from-pink-50 to-[#eef3fb]
+    <div className="relative h-56 mb-6 rounded-xl bg-gradient-to-br from-[#0b1a3a]/10 to-[#eef3fb]
                     flex items-center justify-center">
       <Image
         src={image}

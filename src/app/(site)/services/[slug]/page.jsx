@@ -1,5 +1,5 @@
 import { notFound } from 'next/navigation';
-import { dynamicsServices, experts, serviceCapabilities, serviceExpectations, serviceProblems, serviceProcess, whyChooseUs } from '../../data/services';
+import { clientStoriesBySlug, dynamicsServices, experts, serviceCapabilities, serviceExpectations, serviceProblems, serviceProcess, whyChooseUs } from '../../data/services';
 import ServiceHero from '../../components/ServiceHero';
 import BrandTrust from '../../components/BrandTrust';
 import ServiceProblems from '../../components/ServiceProblems';
@@ -41,8 +41,8 @@ export default async function ServiceDetailPage({ params }) {
     const capabilities = serviceCapabilities[slug];
     const processData = serviceProcess[slug];
     const expert = experts[slug];
-     const data = whyChooseUs[slug];
-      const expectations = serviceExpectations[slug];
+    const data = whyChooseUs[slug];
+    const expectations = serviceExpectations[slug];
     if (!service) {
         notFound();
     }
@@ -57,10 +57,10 @@ export default async function ServiceDetailPage({ params }) {
             <ServiceExpectations data={expectations} />
             <ServicesBanner />
             <ExpertProfile profile={expert} />
-             <WhyChooseUs data={data} />
-             <ClientStories />
-             <TestimonialsDark />
-             <AppointmentSection />
+            <WhyChooseUs data={data} />
+            <ClientStories clientSlug={slug} />
+            <TestimonialsDark />
+            <AppointmentSection />
         </main>
     );
 }
