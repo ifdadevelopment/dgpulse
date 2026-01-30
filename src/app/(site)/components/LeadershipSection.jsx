@@ -3,7 +3,6 @@ import Image from "next/image";
 export default function LeadershipSection() {
   return (
     <section className="relative bg-white overflow-hidden">
-      {/* Background Blobs */}
       <div className="absolute inset-0 pointer-events-none">
         <div className="absolute top-10 left-10 w-60 h-60 bg-[#0b1a3a]/10 blur-3xl rounded-full" />
         <div className="absolute bottom-10 right-10 w-72 h-72 bg-[#0b1a3a]/10 blur-3xl rounded-full" />

@@ -2640,3 +2640,64 @@ export const clientStoriesBySlug = {
     image: "/images/digital-marketing.webp",
   },
 };
+export const row1Logos = [
+  { src: '/images/baidyanath.webp', alt: 'Baidyanath' },
+  { src: '/images/brceramics.png', alt: 'BR Ceramics' },
+  { src: '/images/coperato.png', alt: 'Coperato' },
+  { src: '/images/COVERFOX.png', alt: 'Coverfox' },
+  { src: '/images/yatra.png', alt: 'Yatra' },
+  { src: '/images/Pristyn_Care.png', alt: 'Pristyn Care' },
+];
+
+export const row2Logos = [
+  { src: '/images/Kajaria.png', alt: 'Kajaria' },
+  { src: '/images/Honeywell.png', alt: 'Honeywell' },
+  { src: '/images/fab-hotel.png', alt: 'Fab Hotel' },
+  { src: '/images/bathxpertz.png', alt: 'Bathxpertz' },
+  { src: '/images/smartblinddesign.png', alt: 'Smart Blind Design' },
+  { src: '/images/dreamworkx.png', alt: 'Dreamworkx' },
+];
+
+export const caseStudies = [
+  {
+    key: 'travel',
+    label: 'Travel Industry',
+    icon: 'fa-plane',
+    client: 'EASE TRAVELS | USA & INDIA',
+    image: '/images/Travel-Industry.webp',
+    challenge:
+      'Over-reliance on OTAs (72%) increased commission costs. Organic traffic stalled at 18K/month, while paid ads delivered a weak 1.4x ROAS.',
+    solution:
+      'Destination-based search strategy, high-conversion landing pages, Performance Max with Meta retargeting, and GA4-driven conversion tracking.',
+    impactTitle: 'Impact & Results',
+    metrics: [
+      { icon: 'fa-chart-line', value: '+189%', label: 'Organic Traffic', change: '18K → 52K/month' },
+      { icon: 'fa-calendar-check', value: '+259%', label: 'Direct Bookings', change: '320 → 1,150/month' },
+      { icon: 'fa-dollar-sign', value: '4.1x', label: 'Paid Ads ROAS', change: 'from 1.4x' },
+      { icon: 'fa-arrow-up', value: '3.5x', label: 'Revenue Growth', change: 'OTA dependency → 38%' },
+    ],
+    result: '3.5× Revenue Growth & OTA dependency reduced to 38%',
+  },
+
+  {
+    key: 'ecommerce',
+    label: 'E-commerce',
+    icon: 'fa-shopping-cart',
+    client: 'THREAD CO. | UK & CANADA',
+    image: '/images/E-commerce-Scaling.webp',
+    challenge:
+      'Despite steady traffic, conversions remained low at 0.9% with 74% cart abandonment.',
+    solution:
+      'Funnel-based SEO, Google Shopping restructuring, checkout UX optimization, and retargeting.',
+    impactTitle: 'Impact & Results',
+    metrics: [
+      { icon: 'fa-percentage', value: '3x', label: 'Conversion Rate', change: '0.9% → 2.7%' },
+      { icon: 'fa-chart-line', value: '3.0x', label: 'Monthly Revenue', change: '£68K → £210K' },
+      { icon: 'fa-ad', value: '5.3x', label: 'Paid ROAS', change: 'up from 2.2x' },
+      { icon: 'fa-shopping-cart', value: '49%', label: 'Cart Abandonment', change: 'reduced from 74%' },
+    ],
+    result: 'Conversion rate tripled with 3.0x revenue growth',
+  },
+
+  // 👉 Add b2b, photography, education, saas, healthcare, local, construction, realestate
+];
